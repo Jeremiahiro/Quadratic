@@ -10,10 +10,10 @@ Either two distinct real solutions; one double real solution or two imaginary so
 
 There are several methods you can use to solve a quadratic equation:
 
-> Factoring,
-> Completing the sqaure.
-> Quadratic formula, and 
-> Graphing.
+* Factoring,
+* Completing the sqaure.
+* Quadratic formula, and 
+* Graphing.
 
 ### By Factoring:
 1. Put all terms on one side of the equal sign, leaving zero on the other side.
@@ -23,7 +23,7 @@ There are several methods you can use to solve a quadratic equation:
 5. Check by inserting your anser in the original equation.
 
 ### By Completing the Square Method:
-1. divid all terms by the coefficient of x(U+00B2)
+1. divid all terms by the coefficient of x^2
 2. move the number term to the right side of the equation
 3. complet the square on the left side of the equation and balance this by adding the same value to the right side of the equation
 4. take the sqaure root on both sides of the equation
